@@ -1,9 +1,10 @@
+print "Please enter some information \n
+so that you can be sorted into your Hogwarts House."
+
 name = (raw_input("Please enter your first name.  "))
 birthday = (raw_input("Please enter your birth month (ex. January).  "))
 birth_place = (raw_input("Please enter the city where you were born.  "))
 lhp = int(raw_input("Please enter how much you enjoyed the Harry Potter series \non a scale between 1 and 10 (10 being LOVED it!).  "))
-
-print "You will now be sorted into your Hogwarts House."
 
 import random
 
