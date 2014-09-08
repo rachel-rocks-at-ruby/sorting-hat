@@ -1,4 +1,4 @@
-print "Please enter some information \nso that you can be sorted into your Hogwarts House."
+print "Please enter some information so that you can be sorted into your Hogwarts House."
 
 name = (raw_input("Please enter your first name.  "))
 birthday = (raw_input("Please enter your birth month (ex. January).  "))
@@ -15,5 +15,5 @@ elif house == 2:
 	print "You belong to the house of Rowena Ravenclaw."
 elif house == 3:
 	print "You belong to the house of Godric Gryffindor."
-else:
+elif house == 4:
 	print "You belong to the house of Salazar Slytherin."
