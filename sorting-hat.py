@@ -17,4 +17,4 @@ elif house == 2:
 elif house == 3:
 	print "You belong to the house of Godric Gryffindor."
 else:
-	print "You belong to the hous eof Salazar Slytherin."
+	print "You belong to the house of Salazar Slytherin."
