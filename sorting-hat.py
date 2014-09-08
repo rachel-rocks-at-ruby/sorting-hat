@@ -15,5 +15,5 @@ elif house == 2:
 	print "You belong to the house of Rowena Ravenclaw."
 elif house == 3:
 	print "You belong to the house of Godric Gryffindor."
-elif house == 4:
+else:
 	print "You belong to the hous eof Salazar Slytherin."
