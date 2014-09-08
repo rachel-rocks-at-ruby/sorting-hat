@@ -7,7 +7,7 @@ print "You will now be sorted into your Hogwarts House."
 
 import random
 
-house = random.randrange(1, 4)
+house = random.randrange(0, 4)
 
 if house == 1:
 	print "You belong to the house of of Helga Hufflepuff."
