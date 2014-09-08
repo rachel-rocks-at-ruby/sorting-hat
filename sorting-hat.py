@@ -1,5 +1,4 @@
-print "Please enter some information \n
-so that you can be sorted into your Hogwarts House."
+print "Please enter some information \nso that you can be sorted into your Hogwarts House."
 
 name = (raw_input("Please enter your first name.  "))
 birthday = (raw_input("Please enter your birth month (ex. January).  "))
